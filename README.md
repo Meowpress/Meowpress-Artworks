@@ -1,4 +1,4 @@
-<img src="Meowpress Artworks\cat-logo.png" align="right" alt="Cat Logo" width="20">
+<img src="Meowpress Artworks\cat-logo.png" align="right" alt="Cat Logo" width="20%">
 
 # Meowpress-Artworks
 
