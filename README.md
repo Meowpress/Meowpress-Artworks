@@ -34,7 +34,7 @@ Artworks used by Meowpress.
 
 ---
 
-🐱 Meowpress Artworks ©Team Meow. Released under the [CC BY-NC-ND 4.0 International License](/blob/master/LICENSE).
+🐱 Meowpress Artworks ©Team Meow. Released under the [CC BY-NC-ND 4.0 International License](https://github.com/Meowpress/Meowpress-Artworks/blob/master/LICENSE).
 
 Authored and maintained by 🐱Team Meow with love from BIT.
 
